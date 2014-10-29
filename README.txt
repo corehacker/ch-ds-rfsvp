@@ -1,3 +1,8 @@
+ch-ds-rfs
+=========
+
+[![Build Status](https://travis-ci.org/corehacker/ch-ds-rfsvp.png?branch=master)](https://travis-ci.org/corehacker/ch-ds-rfsvp)
+
 General Information
 ===================
 This package contains source code for the application(s) that implements the
